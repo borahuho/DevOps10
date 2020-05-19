@@ -1,4 +1,4 @@
-  ---
+---
 - hosts: "web02"
   become: yes
   become_method: sudo
